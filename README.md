@@ -1,3 +1,3 @@
-# multi_classification
+# supervised learning
 
 8 class
