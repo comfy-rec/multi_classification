@@ -42,15 +42,15 @@ person - 986 images
 
 ### train
 
-train ratio = 0.7 each class
+train ratio - 0.7 each class
 
-validation ratio = 0.2 each class
+validation ratio - 0.2 each class
 
 data augmentation - rescale, width shift, height shift, horizontal flip
 
 ### test
 
-test ratio = 0.1 each class
+test ratio - 0.1 each class
 
 data augmentation - rescale
 
