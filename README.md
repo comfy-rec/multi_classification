@@ -70,15 +70,15 @@ data augmentation - rescale
 
 ## conclusion
 
-8mul train accuracy
+### 8mul train accuracy
 
 ![8mul_train_acc](https://user-images.githubusercontent.com/62055003/120117123-a6241500-c1c6-11eb-98ef-e4127abf56ef.png)
 
-8mul train loss
+### 8mul train loss
 
 ![8mul_train_loss](https://user-images.githubusercontent.com/62055003/120117142-ba681200-c1c6-11eb-91e7-b3e8e88573ec.png)
 
-test 8mul images
+### 8mul test images
 
 ![test_airplane](https://user-images.githubusercontent.com/62055003/120117150-ca7ff180-c1c6-11eb-9862-6724c5a8f4a1.png)
 
