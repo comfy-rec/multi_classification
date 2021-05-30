@@ -54,7 +54,7 @@ test ratio - 0.1 each class
 
 data augmentation - rescale
 
-## Usage
+## usage
 
 ### data preprocessing
 
